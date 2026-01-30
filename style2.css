@@ -1,0 +1,55 @@
+body{background: #2035d6;
+background: linear-gradient(90deg, rgba(32, 53, 214, 1) 37%, rgba(62, 8, 168, 1) 59%);
+font-family: 'Brush Script MT', cursive;
+}
+p{
+color: rgb(91, 8, 235);
+background-color: rgb(161, 161, 246);
+font-size: 20px;
+
+}
+h1{text-shadow: 10px 10px 10px #e82929; text-align: center; font-size: 55px;} 
+h2{font-size: 35px;text-shadow: 10px 10px 10px #e82929;}https://learn.logikaschool.com/lesson?module=5&lesson=31776&task=74551&level=6$0
+.kotic{width: 125px;height: 125px;}
+
+
+img{box-shadow: 10px 10px 10px #100000;
+    width: 111px;
+    height: 111px;
+    
+}
+
+
+
+nav a{
+    position: absolute;
+    top: -80px;
+    transition: 0.3 ;
+    padding: 15px;
+    width: 150px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+} 
+nav a:hover{
+    top: 10px;
+}
+.about{
+    left: 30%;
+    top: -30px;
+    background-color: #7108eb;
+}
+.blog{
+    left: 60%;
+    top: -30px;
+    background-color: #3e03e2;
+}
+
+.Vika{
+ background-color: transparent;   
+ font-size: 50px;
+ background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
